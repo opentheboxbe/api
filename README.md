@@ -19,7 +19,7 @@ You can generate an api token from the client id and client secret that comes wi
 
 ```curl
 curl --request POST \
-  --url https://opentheboxbe.eu.auth0.com/oauth/token \
+  --url https://openthebox.be/oauth/token \
   --header 'content-type: application/json' \
   --data '{"client_id":"{your client id}","client_secret":"{your client secret}","audience":"https://openthebox.be/api","grant_type":"client_credentials"}'
 ```
