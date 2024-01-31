@@ -36,5 +36,6 @@ This token will expire after 24 hours so a new token should be generated before 
 The following resources contain the mappings between the codes and the descriptions in all available languages:
 
 - [code.csv](https://openthebox.be/app/resources/code.csv)
+- [province.csv](https://openthebox.be/app/resources/province.csv)
 - [financial_codes_labels.tsv](https://openthebox.be/app/resources/financial_codes_labels.tsv)
 
